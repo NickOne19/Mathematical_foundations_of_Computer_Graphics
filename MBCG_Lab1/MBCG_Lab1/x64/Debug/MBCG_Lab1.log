@@ -1,0 +1,6 @@
+﻿  Circle.cpp
+  Figure.cpp
+  Source.cpp
+  Создание кода...
+C:\Users\OWNER\source\repos\MBCG_Labs\MBCG_Lab1\MBCG_Lab1\Source.cpp(90): warning C4715: windowProcedure: значение возвращается не при всех путях выполнения
+  MBCG_Lab1.vcxproj -> C:\Users\OWNER\Source\Repos\MBCG_Labs\MBCG_Lab1\x64\Debug\MBCG_Lab1.exe
